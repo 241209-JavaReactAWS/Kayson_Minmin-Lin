@@ -1,0 +1,35 @@
+#aboutme {
+    margin: 5px;
+    padding: 5px;
+}
+
+#list{
+    margin: 7px;
+}
+
+#list{
+    border: 3px black dashed;
+}
+
+#hover-text {
+    display: none;
+  }
+
+#lie:hover + #hover-text {
+    display: inline;
+  }
+
+div {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: italic;
+    line-height: 1.5;
+    color: #333333;
+}
+
+
+
+body {
+    background-color: rgb(255, 242, 215); /* Sets the page background color */
+}
